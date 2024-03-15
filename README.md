@@ -1,2 +1,2 @@
-# portfolio-website
+# responsive-portfolio
 This is my first portfolio
